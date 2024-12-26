@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Jigneshkumar Gadhwal, a passionate Master’s student in Mechatronics and Robotics, specializing in AI and Computer Vision. I've honed my skills in programming, machine learning, image and video processing, and data management through a variety of projects. From building computer vision models to developing machine learning models using PyTorch, I’ve had the opportunity to explore different aspects of technology.<br><br>I am well-versed in Python and computer vision applications. I’m excited to continue learning and growing in this field, and I’m always open to new projects and collaborations.
+I’m Jigneshkumar Gadhwal, a passionate Master’s student in Mechatronics and Robotics, specializing in AI and Computer Vision. I've honed my skills in programming, machine learning, image and video processing, and data management through a variety of projects. From building computer vision models to developing machine learning models using PyTorch, I’ve had the opportunity to explore different aspects of technology.<br><br>I am well-versed in Python and computer vision applications. I’m excited to continue learning and growing in this field, and I’m always open to new projects and collaborations. 
 
 
 ## 🌐 Socials:
