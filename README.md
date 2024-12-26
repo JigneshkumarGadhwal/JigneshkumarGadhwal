@@ -2,7 +2,7 @@
 I’m Jigneshkumar Gadhwal, a passionate Master’s student in Mechatronics and Robotics, specializing in AI and Computer Vision. I've honed my skills in programming, machine learning, image and video processing, and data management through a variety of projects. From building computer vision models to developing machine learning models using PyTorch, I’ve had the opportunity to explore different aspects of technology.<br><br>I am well-versed in Python and computer vision applications. I’m excited to continue learning and growing in this field, and I’m always open to new projects and collaborations.
 
 
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jerry.gadhwal.12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jerry_gadhwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jigneshkumar-gadhwal-b04b16331) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28940188/jigneshkumar-gadhwal?tab=profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JigneshGadhwal) 
 
 # 💻 Tech Stack:
